@@ -1,7 +1,6 @@
 # Gergo Build Images
 
 A completed unit.
-<<<<<<< HEAD
 ![]('img/1.png')
 
 5x10k, 2x22, 2x2.2k
@@ -73,4 +72,3 @@ Trackball PCB so you don't need to squint
 # There's a few more in the img/ take a look!
 =======
 ![](img/IMG_20190124_172138.jpg)
->>>>>>> d80ec49ee3cceb84742998f7ed699a2e7742fb45
