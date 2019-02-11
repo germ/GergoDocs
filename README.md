@@ -92,5 +92,19 @@ A beautiful MCU job. Notice the spaces.
 
 Trackball PCB so you don't need to squint
 
-![](img/IMG_20190124_172138.jpg)
+![](img/37.png)
+
+Properly soldered leg on Trackball PCB
+
+![](img/38.png)
+
+10K Resistors properly attached.
+
+![](img/39.png)
+
+Leg not properly attached that came off PCB
+ 
+![](img/40.png)
+
+
 # There's a few more in the img/ take a look!
