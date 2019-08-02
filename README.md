@@ -16,7 +16,7 @@ A completed unit.
 
 Reset!
 
-![](img/10.png')
+![](img/10.png)
 
 Tinning a diode pad
 
